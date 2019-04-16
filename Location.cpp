@@ -1,7 +1,9 @@
-//
-// Created by ruben on 4/5/19.
-//
-
 #include "Location.h"
+#include <iostream>
 
-// Defina los metodos que crea necesario
+using namespace std;
+
+
+// Declare los metodos que crea necesario
+
+// Cree que sea necesario agregar destructor, justifique
